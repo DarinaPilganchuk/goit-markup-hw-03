@@ -359,9 +359,6 @@ body {
     margin-right: 0;
 }
 
-.footer {
-    background-color: var(--dark-bg-cl);
-}
 
 .address {
     font-style: normal;
@@ -445,7 +442,9 @@ body {
     width: 370px;
     border: 1px solid #EEEEEE;
 }
-
+.footer {
+    background-color: var(--dark-bg-cl);
+}
 .footer{
     padding-top:60px ;
     padding-bottom:60px ;
